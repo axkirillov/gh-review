@@ -18,3 +18,6 @@ gh install axkirillov/review
 ```shell
 gh review
 ```
+
+# limitaions
+you can only run it from a folder that is a git repo that points to a github remote 🤷

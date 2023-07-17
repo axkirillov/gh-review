@@ -20,4 +20,4 @@ gh review
 ```
 
 # limitaions
-you can only run it from a folder that is a git repo that points to a github remote 🤷
+you can only run it in a folder that is a git repo 🤷

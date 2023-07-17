@@ -1,7 +1,20 @@
-# gh-review
+# description
 
-similar to https://github.com/axkirillov/gh-copr
+Opens a list of PRs that "need your review". The selected pr will open in the browser.
 
-but:
-1. always lists only prs that "need your review"
-2. opens the selected one in the browser
+# installation
+make sure you have the dependencies
+```shell
+brew install gh
+brew install fzf
+```
+install the extension
+```shell
+gh install axkirillov/review
+```
+
+# usage
+
+```shell
+gh review
+```

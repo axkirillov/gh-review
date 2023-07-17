@@ -19,5 +19,5 @@ gh extension install axkirillov/review
 gh review
 ```
 
-# limitaions
+# limitations
 you can only run it in a folder that is a git repo 🤷

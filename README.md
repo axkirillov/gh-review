@@ -10,7 +10,7 @@ brew install fzf
 ```
 install the extension
 ```shell
-gh install axkirillov/review
+gh extension install axkirillov/review
 ```
 
 # usage
